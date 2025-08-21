@@ -13,9 +13,9 @@ Helping teams turn data into insights for 5+ years, with a passion for Data Scie
 
 - My Stack
 
-[<img src="assets/python.svg" alt="My profile image" width="30"/>](https://www.python.org/) [<img src="assets/r.png" alt="My profile image" width="30"/>](https://www.r-project.org/) [<img src="assets/postgres.svg" alt="My profile image" width="30"/>](https://www.postgresql.org/) [<img src="assets/mysql.svg" alt="My profile image" width="30"/>](https://www.mysql.com/) [<img src="assets/pandas.svg" alt="My profile image" width="30"/>](https://pandas.pydata.org/) [<img src="assets/numpy.svg" alt="My profile image" width="30"/>](https://numpy.org/) [<img src="assets/scikitlearn.svg" alt="My profile image" width="30"/>](https://scikit-learn.org/stable/)
+  [<img src="assets/python.svg" alt="My profile image" width="30"/>](https://www.python.org/) [<img src="assets/r.png" alt="My profile image" width="30"/>](https://www.r-project.org/) [<img src="assets/postgres.svg" alt="My profile image" width="30"/>](https://www.postgresql.org/) [<img src="assets/mysql.svg" alt="My profile image" width="30"/>](https://www.mysql.com/) [<img src="assets/pandas.svg" alt="My profile image" width="30"/>](https://pandas.pydata.org/) [<img src="assets/numpy.svg" alt="My profile image" width="30"/>](https://numpy.org/) [<img src="assets/scikitlearn.svg" alt="My profile image" width="30"/>](https://scikit-learn.org/stable/)
 
-[<img src="assets/excel.png" alt="My profile image" width="30"/>](https://excel.cloud.microsoft/en-us/) [<img src="assets/databricks.png" alt="My profile image" width="50"/>](https://www.databricks.com/) 
+  [<img src="assets/excel.png" alt="My profile image" width="30"/>](https://excel.cloud.microsoft/en-us/) [<img src="assets/databricks.png" alt="My profile image" width="50"/>](https://www.databricks.com/) 
 [<img src="assets/powerbi.svg" alt="My profile image" width="30"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi) [<img src="assets/tableau.png" alt="My profile image" width="50"/>](https://www.tableau.com/) 
 
 
