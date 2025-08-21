@@ -11,6 +11,8 @@ Helping teams turn data into insights for 5+ years, with a passion for Data Scie
   - Database Management (Microsoft SQL Server, PostgreSQL, and MySQL)
   - Data Engineering
 
+- My Stack
+
 - 📫 How to reach me:
   - gleizergarrido@gmail.com
 
